@@ -1,4 +1,9 @@
 kldjflsdjssdjdjlsjgljkfjkdsfksdjjhakjdhjkahsd
 kjdhfkjsdhfsdk
+<<<<<<< HEAD
 jjdkhkjhfkds
 jdhfkshdfk
+=======
+jddfkjsd 
+kjndndkndkf
+>>>>>>> e1f549fc9ac7bb626ec81d2010fc92d4df47a520
