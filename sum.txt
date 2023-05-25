@@ -1,9 +1,6 @@
 10 from local
 20 from github
-<<<<<<< HEAD
 40 from local
-=======
 30 from github
->>>>>>> d59de768da73ba08df5b39f85a24f94736643d64
-
 50 from local
+60 from github
